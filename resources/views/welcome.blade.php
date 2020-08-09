@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Deni Darmawan
+                    Ahmad Candra W.W
                 </div>
 
                 <div class="links">
